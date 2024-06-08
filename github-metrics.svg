@@ -325,7 +325,7 @@ Previously @Tencent🐧 &amp; @UniqueStudio</div>
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEBREhAAYSEzFBcVHRFCKBkaEHFTIzYf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAbEQADAQADAQAAAAAAAAAAAAAAASEDAhExBP/aAAwDAQACEQMRAD8Az1iPWmtvTHmKvHqTCLsBMqItk382Bv3z50Ak8hrZu3nnGW3H32XUBXEbfIRc4PTP+6L1l6lRmn49OepvHkh6FUHCTnAQEj+Z0tLrMmk1TlymeY1BhKispvYB0m5buD1IsPtqXPhPCid+mSNF5kmMpam1oI4+FVkIcHrfp+BoFJpplvKW1GfaSn5bFk3PfNz1zb6abNjU+n1ijRnZFXcilvBbeU02gKHYEjx10xt7N28EAfvaFAYv8ePfTuMVJlMqWyPhYJcRtqA2oGyyzHbKkDOcZ9M+fTUqr2x59IMh2UpuQiQQ+IwNl3QRYj2+2tte3XWt07wTHqFQfZhMym0JixFFpshXDe9sn6nVndpcOtqCaiwh0tNoDa7WUjwrrqhxUxVOedh0iZR6WifKaQ3dz+pwkLsTnGmVyqo4zwsIWPWx9tHf1CoUOlxmY0BKmGY7nJSEAJ4k3uAqwzbtqHb0r1QgV1UaG8GmUNNkJSO5SCfyTpsdU1UD6cXx6p//2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYEBwEDCP/EAC8QAAEDAgQDBAsAAAAAAAAAAAECAxEABAUSIUETMVEiYYGRBgcUIyUyNGJxoeH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAgMF/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEEIQUSE0Jh/9oADAMBAAIRAxEAPwDqFaqhvq0METtWC/I8JpQu7nFF45eOpfdcw1ISGmm0CEqyyZUBMzpE9aA53k0EiOOzSNOqVwRxiM/MkUPcBzcvKKA4nd4rbexDDG0pSXktvtPoV7tsx2xuIHhRZl9DiSUh6JI7KTFYmdGY30UgN6aRJd5EgfOEggTz0/lBLHF27O4dtLx1aDHGIMJgkHtGR3K32PSako+oWNkoQsDvI1P6FImID4teXS5cXd4ocJdQvVKrZFpmyR9xJk8+kUrEmLnlvxR9dpoGN2WIXlwUXjNw+RndDahKREJEA9K3sl3hjhFCUbaET3xVQrsmvRb1usWeEFaLc5BlWrNopsKI/E1brSiM6QdEqgeVE5qcNe1nW9XavjkEooCqX//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgP/xAArEAABAwIDBwMFAAAAAAAAAAABAgMEABEFEiEGExQiMUFRI3GxFWGBkfD/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhEhMxMkH/2gAMAwEAAhEDEQA/AN+9LbStAZSeY8oB7V1RLINgo6Vloe+l4HCloX6huSlIssWOhB6edDp1p9s49Cl4ouNHXJedaIW6oM5Gwfvm1P6tUnrZRW0MOKUpo3PTtQP0/e86F5Qe1+lNFwUw0SEvPN8RJbIaSpVva3k9KSQ5alM5lcpJvl8VnGgJ41LyINmJCnMHiJWbobSQn2/iaqWGxW4gzemVqAG8CQCsdrnvUj2I5sDj38OfIrX45jE3C8EW5EdyrGgJF8vtTWt0Mx+th+3KYaUsPuNoMxXotG+oBIJP4tUvxTG0x8QfTxGQFWifFuX5SaNEp+RPVIkuredTHzguG+uU1KTLefUpbirqJ60UX8YrLOno/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAgHBAb/xAAsEAABAwMCBAQHAQAAAAAAAAADAQIEAAURBgcTITFBCBJRYRUjJFNxgZGi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOXxEit1j3lh3iXbC3G3PhDLcI7TK1HuXiDavL0RjFx0XCZ61P8AqW5RpuoZsuyxjwbYQyuDEcZXKNvpmqe3k291Lr3dsduiANHsBghKe4K35bGtyipnu/rhnui9Ode/BsJt6yNHE+ykIokRFI+WXzP91w7H8xQR/q29wNVXO2M03Y/ghOHwyjEdz0K7PLCe3T1WrR2CEwO0OnBgY5qtC9Co52V4vEdxP9easg322IjW21ivu3cAwyw1+ogCc8qvZ9xmVVcp3Tun45674fodwhbV2lLoAgJRnFO4Zk8rmo4jlblO2Uwv7oNHpSlApSlB/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgAFBwgCAwT/xAArEAABAwIFAwMEAwAAAAAAAAABAgMEBREABhIhMRNBUQcUYRYicZEygbH/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECAwX/xAAcEQACAwEAAwAAAAAAAAAAAAABAgADEQQhMUH/2gAMAwEAAhEDEQA/ACCFmDKCW1rXmGG2G+esFt/rUBf+sGuWEU+u05qfRZkedDc2DrSu/gjkH4O+Ky539OJbbjUnJyplXp7xCPbadbzKvmwF0/IG3fyebLGYc7+i1YEV+D0UT0Bz2Msam3B2WNKtj258g8Y6dnXbuGIjlT5LjJo+lsqWLAC5J7YZlP0palFqW08AbFTALqQfF0m1/jDRlKH9Vtwq5mapT6lDlMB1mnGP0ISF9/s5WObdS/BNzcYOVVNuNZlmKENIFkhCtIA/FsYi6w+pc1KJB+W6i62wgQZDMd3cKLg/zY4B/UvJNXm12NVYbwqr77LrTzqQT0SEXStZPA5/FsKjPuKSCTh6iVKUhYUl0g4YesN5grZJNy3ml1WWKWmchxqe1EaRIbIsArQNwRsQbX2xm5mMauR+8R+qoyXUfe5fGhUhy/8ALAi4MkMdM//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwD/xAAtEAABAwMCBAQGAwAAAAAAAAABAgMEBREhABIGEzFBBxVRYRQWIjJDoXGRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAAECBP/EABoRAQEAAwEBAAAAAAAAAAAAAAEAAgMhFDH/2gAMAwEAAhEDEQA/AHvn8tTnKM1aHEEBRIJxnI/Wul1iaHmiiY6G13IUd/127DGO/c6CmVOfV6XAmxIcaGBKcbfKWTfl2Frjra5yfYak+IK4mQ9ATPfdLkZpbt2zgo6hHv1A1PTV57RFcUPsqWhmXIKBYhxTfQdCDkHRDHFUhbYKZEhQGLoZNj+9ZZV5brUSPIRJQAsF1TTQ2LbAOzJv6/700E9xA/HUlLqXEKKQoBYN7f3rRvWG6grWkMVBTbUezklxsE81zBt2vf2xe9tKoNAfc8RmnKtBalUgtk82KobAQLjeQcdB6X0+g1mXVvmYzFIUmA8pphCU2SAlAsSO5/nRnAbnnSW01BDbpS8WwvYNwTjF9LsBOzXNHlHcRzKJB43kxnz8PEZYb5TIusFwuIUcnt1OpuoThIeStmr0tSdoB3A2B7hOPtve2ifGdpMbxGqTbZOxKGbBRv8AjRqWQWykFceOtXqpsE6MfLnyO3//2Q==" width="28" height="28" alt="" />
@@ -438,7 +438,7 @@ Previously @Tencent🐧 &amp; @UniqueStudio</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.18822724161535 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.27310061601644 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -655,7 +655,7 @@ Previously @Tencent🐧 &amp; @UniqueStudio</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 88.9k out of 138m users</span>
+                                    <span class="gh">ranked 89k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 120 users</div>
                             </div>
@@ -800,7 +800,7 @@ Previously @Tencent🐧 &amp; @UniqueStudio</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 996k out of 204m repositories</span>
+                                    <span class="gh">ranked 996k out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -846,7 +846,7 @@ Previously @Tencent🐧 &amp; @UniqueStudio</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.69m out of 204m repositories</span>
+                                    <span class="gh">ranked 2.69m out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -933,7 +933,7 @@ Previously @Tencent🐧 &amp; @UniqueStudio</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2024, 08:16:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2024, 08:17:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
